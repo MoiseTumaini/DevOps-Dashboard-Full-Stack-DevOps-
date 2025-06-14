@@ -32,3 +32,30 @@ DevOps-Dashboard/
 ├── README.md
 └── .env.example
 ```
+
+## 📌 Tooling Choices
+
+Frontend: React + Tailwind CSS
+
+Backend: Python (Flask or FastAPI)
+
+Monitoring: Prometheus + Grafana + Loki
+
+CI/CD: GitHub Actions
+
+Infra: Docker Compose (local), Kubernetes (for deployment)
+
+Reverse Proxy: NGINX
+
+## 🧠 Roadmap & Timeline (5 Weeks)
+
+Week 1: Planning & Setup
+
+Week 2: Frontend & API Integration
+
+Week 3: Monitoring & Logging
+
+Week 4: CI/CD + Docker + Alerts
+
+Week 5: Polish + Deploy
+
